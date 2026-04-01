@@ -62,6 +62,7 @@ fact_sales
 Revenue
 Quantity
 Claves hacia dimensiones
+
 🧩 Dimensiones
 dim_product
 Producto, descripción, categoría
@@ -69,10 +70,14 @@ dim_customer
 Cliente, país, región
 dim_time
 Fecha, año, mes, trimestre
+
 📊 Jerarquías
 Tiempo: Año → Mes → Día
 Producto: Categoría → Producto
 Región: Región → País
+
+Objetivo: Organizar datos para analizarlos mejor
+
 📊 Análisis y visualización (próximamente)
 
 El modelo será implementado en Power BI para el desarrollo de dashboards interactivos.
