@@ -116,6 +116,6 @@ Preparación de datos para BI
 
 📌 Próximos pasos
 Construcción del modelo estrella
-Desarrollo del dashboard en Power BI
+Desarrollo del dashboard en Looker Studio
 Generación de insights y storytelling
 Publicación de avances en LinkedIn
